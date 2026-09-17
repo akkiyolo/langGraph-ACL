@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "e_graph": "./0-graph_state_str.py:graph"
+  },
+  "env": ".env"
+}
